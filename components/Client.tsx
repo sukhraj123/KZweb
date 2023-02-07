@@ -3,7 +3,9 @@ import "../styles/globals.css"
 
 function Client() {
   return (
-    <div className='max-w-2xl mx-auto pt-20 pb-40 '>
+    
+    <div id='Clients' className='grid grid-cols-1 md:grid-cols-1 px-10 gap-10 gap-y-16 pb-24 '>
+      <h1 className='text-center text-3xl'>EXPERIENCES WE'VE MADE</h1>
 <div className='py-50'>
 <div className='lg:flex  gap-4 '>
     <a href="" className='hover:opacity-20 transition duration-300 ease-in-out bg-black shadow-lg'><img src="/1.jpg" alt="" /></a>

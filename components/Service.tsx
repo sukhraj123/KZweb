@@ -6,7 +6,7 @@ function Service() {
         
 
 
-        <div className='max-w-7xl mx-auto sm:block lg:flex'>
+        <div id='Services' className='max-w-7xl mx-auto sm:block lg:flex'>
         <div>
 
             <h2 className='text-4xl space-x-10 text-center'><b>WEBSITE</b></h2>
