@@ -1,2 +1,2 @@
 import Iframe from "sanity-plugin-iframe-pane"
-import type { DefaultDocumentNodeResolver0 } from "sanity/desk"
+import type { DefaultDocumentNodeResolver } from "sanity/desk"
