@@ -3,7 +3,7 @@ import React from 'react'
 function Service() {
   return (
     <div>
-        
+        <hr className="border-[f7ab0a] m-10" />
 
 
         <div id='Services' className='max-w-7xl mx-auto sm:block lg:flex'>

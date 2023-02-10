@@ -1,3 +1,4 @@
+"use client"
 import Image from "next/image";
 import Link from "next/link";
 import urlFor from "../lib/urlFor";
@@ -29,7 +30,7 @@ export const RichTextComponents = {
     },
      block: {
         image: ({children}:any) =>{
-            <img className="text-5xl py-10 font-bold">{children}</img>
+            <img className=" py-10 ">{children}</img>
          },
         h1: ({children}:any) =>{
             <h1 className="text-5xl py-10 font-bold">{children}</h1>
